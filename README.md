@@ -32,7 +32,7 @@ This game utilizes the following components:
 
 ## Knock It Down Game - Live Demo 🎮
 
-https://github.com/user-attachments/assets/9ea07e7a-688d-4aef-a3cd-2e230316f399
+https://github.com/user-attachments/assets/ca1f7fb3-58ee-4071-97e8-d8e8c3324ce3
 
 ## Screenshots 📸
 
@@ -40,5 +40,5 @@ https://github.com/user-attachments/assets/9ea07e7a-688d-4aef-a3cd-2e230316f399
 
 ![2](https://github.com/user-attachments/assets/122ff707-1da3-4994-a7d7-6fccba33f5f6)
 
-## Acknowledgment
+## Acknowledgment 🙏
 This project was inspired by the UGuruz YouTube channel’s Unity Game Tutorial for Beginners - Knock IT Down video. Special thanks to them for their valuable content! 🎯
