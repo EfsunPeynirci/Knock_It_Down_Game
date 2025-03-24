@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/ca1f7fb3-58ee-4071-97e8-d8e8c3324ce3
 
 ![1](https://github.com/user-attachments/assets/96163202-554c-4b50-8f61-c68f9dea0743)
 
-![2](https://github.com/user-attachments/assets/122ff707-1da3-4994-a7d7-6fccba33f5f6)
+![2](https://github.com/user-attachments/assets/05ec7af8-26a7-4e1e-b160-dcffe0413b22)
 
 ## Acknowledgment 🙏
 This project was inspired by the UGuruz YouTube channel’s Unity Game Tutorial for Beginners - Knock IT Down video. Special thanks to them for their valuable content! 🎯
