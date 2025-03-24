@@ -42,3 +42,6 @@ https://github.com/user-attachments/assets/ca1f7fb3-58ee-4071-97e8-d8e8c3324ce3
 
 ## Acknowledgment 🙏
 This project was inspired by the UGuruz YouTube channel’s Unity Game Tutorial for Beginners - Knock IT Down video. Special thanks to them for their valuable content! 🎯
+📺 You can watch the tutorial here: https://www.youtube.com/watch?v=2-DVWsrtVT8&list=PLbT_kxJXjbqJobq1QbWzffnlF78dzyy7i
+
+
