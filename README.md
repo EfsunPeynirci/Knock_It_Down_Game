@@ -1,7 +1,7 @@
 # Knock It Down Game 🎯⚾💥
 
 ## About the Game ⚾🎮
-This project is a simple yet fun physics-based game developed using **Unity** and **C#**. The goal of the game is to launch a ball toward a set of tin cans and knock them down. The player taps the screen to determine the direction of the ball and releases it to shoot. If the ball hits the cans, they fall due to physics interactions. The game currently operates in an **endless loop** and is still under development.
+This project is a simple yet fun physics-based game developed using **Unity** and **C#**. The goal of the game is to launch a ball toward a set of tin cans and knock them down. The player taps the screen to determine the direction of the ball and releases it to shoot. If the ball hits the cans, they fall due to physics interactions. The game currently operates in an endless loop and is still under development.
 
 ## Gameplay Mechanics 🕹️
 - The game starts with a main menu screen where the player can press the Start button to begin.
