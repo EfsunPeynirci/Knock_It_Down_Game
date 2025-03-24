@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/ca1f7fb3-58ee-4071-97e8-d8e8c3324ce3
 
 ## Screenshots 📸
 
-![1](https://github.com/user-attachments/assets/d7bd49e2-3fa1-4df0-b848-be8425cbabf6)
+![1](https://github.com/user-attachments/assets/96163202-554c-4b50-8f61-c68f9dea0743)
 
 ![2](https://github.com/user-attachments/assets/122ff707-1da3-4994-a7d7-6fccba33f5f6)
 
